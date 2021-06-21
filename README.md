@@ -29,7 +29,7 @@ Minor project: Completed
 
 
 ## Contact
-Prince - Software Developer Engineer
+Prince
 <br/>
 <br/>
 singh97prince@gmail.com
